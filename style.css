@@ -585,6 +585,10 @@ footer {
     margin-bottom: 1.3rem;
   }
 
+  .footer-link:hover {
+    text-decoration: underline;
+  }
+
   .attribution {
     text-align: center;
   }
