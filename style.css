@@ -235,14 +235,14 @@ h3 {
 .paragraph-dark {
   color: var(--body-copy);
   line-height: 2.5rem;
-  padding: 1.5rem 3.2rem 3.5rem 4rem;
+  padding: 1.5rem 3.2rem 3.5rem 3.2rem;
 }
 
 .paragraph-light {
   color: var(--text);
   line-height: 2.5rem;
   font-weight: 300;
-  padding: 1.5rem 3.2rem 3.5rem 4rem;
+  padding: 1.5rem 3.2rem 3.5rem 3.2rem;
 }
 
 .img-container {
